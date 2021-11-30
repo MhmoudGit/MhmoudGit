@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MhmoudGit
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning React js
 - 📫 How to reach me mahmoud.a.a.y18@gmail.com
 
 <!---
