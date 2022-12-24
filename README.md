@@ -1,10 +1,10 @@
 <div align="center">
   
 ## About
-- 👋 Hi, I’m @MhmoudGit
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning nodeJs
-- 📫 How to reach me mahmoud.a.a.y18@gmail.com
+👋 Hi, I’m @MhmoudGit
+👀 I’m interested in web development
+🌱 I’m currently learning nodeJs
+📫 How to reach me mahmoud.a.a.y18@gmail.com
 
 -------------------
 
