@@ -1,7 +1,10 @@
 <div align="center">
   
 ## About
-Hello, I am an aspiring web developer mainly Frontend. Currently learning Node Js and mongoDB
+- 👋 Hi, I’m @MhmoudGit
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning nodeJs
+- 📫 How to reach me mahmoud.a.a.y18@gmail.com
 
 -------------------
 
