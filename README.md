@@ -4,8 +4,7 @@
   
 ## About
 - 👋 Hi, I’m @MhmoudGit
-- 👀 I’m a Frontend web development interested in Data Science
-- 🌱 I’m currently learning Data Analysis using Python
+- 👀 I’m a web developer interested in Data Science
 - 📫 How to reach me mahmoud.a.a.y18@gmail.com
   
 <div>
