@@ -3,7 +3,7 @@
  <div align="left">
   
 ## About
-- 👋 Hi, I’m @MhmoudGit
+- 👋 Hi, I’m Mahmoud
 - 👀 I’m a web developer interested in Data Science
 - 📫 How to reach me mahmoud.a.a.y18@gmail.com
   
@@ -13,26 +13,27 @@
 <div align="center">
  
 ### Languages and Tools  
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-A4263C.svg?style=for-the-badge&logo=fastapi&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
   
 -------------------
   <p align="center">
         <a href="https://github.com/MhmoudGit/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmoudGit&langs_count=10&theme=radical&layout=compact&hide_border=false&count_private=true&include_all_commits=true"
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmoudGit&langs_count=10&theme=tokyonight&layout=compact&hide_border=false&count_private=true&include_all_commits=true"
           alt="MhmoudGit :: overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/MhmoudGit/" >
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MhmoudGit&theme=radical&layout=compact&hide_border=false&count_private=true&include_all_commits=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MhmoudGit&theme=tokyonight&layout=compact&hide_border=false&count_private=true&include_all_commits=true"
           alt="MhmoudGit :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MhmoudGit&theme=radical&layout=compact&hide_border=false&count_private=true&include_all_commits=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MhmoudGit&theme=tokyonight&layout=compact&hide_border=false&count_private=true&include_all_commits=true"
           alt="MhmoudGit :: Top Langs by commit" />
           </a>
         </p>
   
-![github stats](https://github-readme-stats.vercel.app/api?username=MhmoudGit&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Mahmoud github stats](https://github-readme-stats.vercel.app/api?username=MhmoudGit&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=MhmoudGit&theme=radical&include_all_commits=true&count_private=true)
+![github streak](https://github-readme-streak-stats.herokuapp.com/?user=MhmoudGit&theme=tokyonight&include_all_commits=true&count_private=true)
+ 
 
  <div>
 
