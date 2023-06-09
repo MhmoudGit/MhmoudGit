@@ -4,7 +4,7 @@
   
 ## About
 - 👋 Hi, I’m Mahmoud
-- 👀 I’m a web developer interested in Data Science
+- 👀 I’m a web developer interested in Data Science and AI
 - 📫 How to reach me mahmoud.a.a.y18@gmail.com
   
 <div>
