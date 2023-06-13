@@ -30,7 +30,7 @@
           </a>
         </p>
   
-![Mahmoud github stats](https://github-readme-stats.vercel.app/api?username=MhmoudGit&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+<!-- ![Mahmoud github stats](https://github-readme-stats.vercel.app/api?username=MhmoudGit&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true) -->
 
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=MhmoudGit&theme=tokyonight&include_all_commits=true&count_private=true)
  
