@@ -3,7 +3,7 @@
  <div align="left">
   
 # I'm Mahmoud || Software Developer
-- specializing in backend and interested in Automation and AI
+- specializing in backend and interested in Automation and DevOps
 - solid foundations in frontend as I spent one year doing frontend development before adding backend to my skill set
 - 📫 How to reach me mahmoud.a.a.y18@gmail.com
   
