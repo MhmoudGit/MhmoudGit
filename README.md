@@ -4,38 +4,32 @@
   
 # I'm Mahmoud || Software Developer
 - specializing in backend and interested in Automation and DevOps
-- solid foundations in frontend as I spent one year doing frontend development before adding backend to my skill set
+- solid foundations in frontend
 - 📫 How to reach me mahmoud.a.a.y18@gmail.com
   
 <div>
  
 -------------------
 <div align="center">
- 
-### Languages and Tools  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  
--------------------
-   <p align="center">
-        <a href="https://github.com/MhmoudGit/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmoudGit&langs_count=10&theme=tokyonight&layout=compact&hide_border=false&count_private=true&include_all_commits=true"
-          alt="MhmoudGit :: overall Top Langs " /></a>
-   </p>
-      <!--   <p align="center">
-          <a href="https://github.com/MhmoudGit/" >
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MhmoudGit&theme=tokyonight&layout=compact&hide_border=false&count_private=true&include_all_commits=true"
-          alt="MhmoudGit :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MhmoudGit&theme=tokyonight&layout=compact&hide_border=false&count_private=true&include_all_commits=true"
-          alt="MhmoudGit :: Top Langs by commit" />
-          </a>
-        </p>
-  
-<!-- ![Mahmoud github stats](https://github-readme-stats.vercel.app/api?username=MhmoudGit&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true) -->
 
+ ## Languages and Tools
 
-![github streak](https://github-readme-streak-stats.herokuapp.com/?user=MhmoudGit&theme=tokyonight&include_all_commits=true&count_private=true)
- 
+<br>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,py,fastapi,docker,react,postgres,git,github,githubactions,next,mongodb,vercel,gcp,linux,javascript,vscode&perline=8" />
+  </a>
+</p>
+
+## <picture> <img src = "./Images/stats.gif?raw=true" width = 60px style="margin-right: 10px;"> </picture> Github Stats
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhmoudGit&langs_count=10&theme=transparent&layout=compact&hide_border=true&count_private=true&include_all_commits=true"&hide=jupyter%20notebook,docker,php,HTML,css,jinja,smarty,mako,javascript,mustache" align="center" />
+  <img src="https://streak-stats-92f42ajco-ujstor.vercel.app?user=MhmoudGit&theme=transparent&hide_border=true" align="center" />
+</p>
  <div>
 
 <!---
