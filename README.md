@@ -5,7 +5,6 @@
 # I'm Mahmoud || Software Developer
 - specializing in backend and interested in Automation and DevOps
 - solid foundations in frontend
-- 📫 How to reach me mahmoud.a.a.y18@gmail.com
   
 <div>
  
